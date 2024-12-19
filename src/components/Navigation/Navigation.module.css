@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  gap: 24px;
+}
+
+/* .navLink {
+} */
+
+.navLinkActive {
+  color: #d84343;
+}

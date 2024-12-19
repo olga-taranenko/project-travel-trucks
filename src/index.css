@@ -85,7 +85,7 @@ button:focus-visible {
 }
 
 body {
-  padding: 16px 16px;
+  /* padding: 0 64px; */
   box-sizing: border-box;
   font-family: var(--font-primary);
   font-weight: var(--font-weight-medium);
