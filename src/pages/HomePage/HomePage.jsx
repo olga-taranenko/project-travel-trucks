@@ -10,7 +10,7 @@ const HomePage = () => {
         You can find everything you want in our catalog
       </p>
       <Link to="/catalog">
-        <StyledButton basic>View Now</StyledButton>
+        <StyledButton>View Now</StyledButton>
       </Link>
     </div>
   );
